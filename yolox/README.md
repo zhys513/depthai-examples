@@ -1,4 +1,4 @@
-`YOLOX` 目标检测演示
+`YOLOX` 目标检测演示  https://zhuanlan.zhihu.com/p/419563171
 ====================
 
 ![detection](demo.png)
